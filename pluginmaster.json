@@ -3,7 +3,7 @@
     "Author": "ItsANoBrainer",
     "Name": "Player Pings",
     "InternalName": "PlayerPings",
-    "AssemblyVersion": "0.0.0.5",
+    "AssemblyVersion": "0.0.0.6",
     "Description": "A plugin that allows spawning VFX markers at world positions and also showing them to other players. Use F1-F4 to spawn different markers.",
     "ApplicableVersion": "any",
     "Tags": ["player", "pings", "markers", "vfx"],
