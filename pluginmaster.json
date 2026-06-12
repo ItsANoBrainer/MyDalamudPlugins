@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "ItsANoBrainer",
+    "Name": "Player Pings",
+    "InternalName": "PlayerPings",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "A plugin that allows spawning VFX markers at world positions and also showing them to other players. Use F1-F4 to spawn different markers.",
+    "ApplicableVersion": "any",
+    "Tags": ["player", "pings", "markers", "vfx"],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Spawn visual markers in the world for yourself and others to see.",
+    "AcceptsFeedback": true,
+    "LastUpdate": 1749600000, 
+    "IsHide": false,
+    "DownloadLinkInstall": "https://github.com/ItsANoBrainer/FFXIV-PlayerPings/releases/download/v0.0.5/FFXIV-PlayerPings_v0.0.5.zip",
+    "DownloadLinkUpdate": "https://github.com/ItsANoBrainer/FFXIV-PlayerPings/releases/download/v0.0.5/FFXIV-PlayerPings_v0.0.5.zip",
+    "DownloadLinkTesting": "https://github.com/ItsANoBrainer/FFXIV-PlayerPings/releases/download/v0.0.5/FFXIV-PlayerPings_v0.0.5.zip"
+  }
+]
